@@ -1,0 +1,36 @@
+body{
+    background-image: url('https://images.pexels.com/photos/4039867/pexels-photo-4039867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 111%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.back_cus{
+    background-color: rgb(1, 17, 45);
+    color: white;
+}
+
+.score_back{
+    background-color: black;
+    color: red;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 5rem;
+}
+
+
+.highlight{
+    background-color: rgb(10, 42, 98) ;
+    box-shadow: 2px 2px 7px 10px #FFF;
+}
+
+.homeFont{
+    font-size: 3rem;
+    color : rgb(255, 179, 0);
+}
+
+.guestFont{
+    font-size: 3rem;
+    color : rgb(0, 89, 255);
+}
+
