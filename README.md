@@ -10,7 +10,6 @@ ScreenShots:
 <img src="https://github.com/TeacherBCode/BasketBall-Score-Counter/assets/156999512/6cd4636e-28fb-42cb-b028-305372e33879" width = 400px height= 200px>
 <br>
 <br>
-<br>
 * Guest Team Leads.
 <br>
 <img src="https://github.com/TeacherBCode/BasketBall-Score-Counter/assets/156999512/cfc8eed2-2260-4ef4-8ddc-63ccab819345" width = 400px height= 200px>
